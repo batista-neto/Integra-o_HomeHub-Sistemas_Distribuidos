@@ -9,17 +9,17 @@ A Residência Conectada com Integração HomeHub é uma inovadora iniciativa que
 
 ## Objetivos
 
--	Redução do tempo gasto na busca por vagas de estacionamento;
--	Contribuição para a redução do trânsito e da poluição do ar nas cidades; 
--	Coleta de dados valiosos para análise de tendências de uso do estacionamento;
--	Demonstrar como a integração de tecnologias como IoT podem ser aplicadas de forma prática e benéfica para resolver desafíos urbanos.
+-	Melhorar a monitorização residencial;
+-	Facilitar a interação residencial; 
+-	Personalização e automação inteligente;
+-	Fornecer insights e análises.
 
 ## Recursos do Projeto
 
 -	O Microcontrolador ESP32
 -	APIs da Plataforma InterSCity que receberá os dados simulados do ESP32;
--	A plataforma InterSCity que armazenará esses dados e permitirá a análise e visualização das informações simuladas de ocupação das vagas;
--	Computadores, protoboard, jumpers, resistores são os recursos de hardware usados para desenvolver, testar e programar o ESP32.
+-	Broker publico disponível em https://mqtt.eclipseprojects.io/;
+-	Computadores, protoboard, jumpers, resistores, sensores são os recursos de hardware usados para desenvolver, testar e programar o ESP32.
 
 ## Equipe
 - João Batista Santos Silva Neto;
