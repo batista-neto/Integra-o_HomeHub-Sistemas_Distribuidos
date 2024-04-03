@@ -1,33 +1,33 @@
-# Estacionamento Inteligente
-Estacionamento Inteligente com IntegraÁ„o Interscity 
+# Resid√™ncia Conectada
+Monitoramento Inteligente com Integra√ß√£o HomeHub 
 
 ## Sobre o Projeto
 
 <div style="text-align: justify">
-Estacionamento Inteligente com IntegraÁ„o Interscity È uma iniciativa que visa transformar a maneira como os estacionamentos urbanos s„o gerenciados e como os motoristas interagem com eles, por meio do desenvolvimento de uma simulaÁ„o de rede de computadores para um sistema de estacionamento inteligente que integra um microcontrolador, o qual envia os dados para a plataforma Interscity, atualizando o status de ocupaÁ„o das vagas. Dessa forma, busca-se otimizar a alocaÁ„o de vagas, melhorar a experiÍncia dos usu·rios e contribuir para a reduÁ„o do congestionamento urbano. Neste projeto, exploraremos como a integraÁ„o desses componentes pode criar uma soluÁ„o inteligente e eficaz para o estacionamento nas cidades, beneficiando tanto os motoristas quanto a gest„o urbana.
+A Resid√™ncia Conectada com Integra√ß√£o HomeHub √© uma inovadora iniciativa que visa revolucionar a maneira como as resid√™ncias s√£o monitoradas e como os moradores interagem com elas. Atrav√©s do desenvolvimento de uma simula√ß√£o de rede de computadores para um sistema de monitoramento com sensores de temperatura, umidade e presen√ßa, conectados a um microcontrolador, o qual envia dados para um broker mqtt sobre as medidas atuais dos sensores conectados.
 </div>
 
 ## Objetivos
 
--	ReduÁ„o do tempo gasto na busca por vagas de estacionamento;
--	ContribuiÁ„o para a reduÁ„o do tr‚nsito e da poluiÁ„o do ar nas cidades; 
--	Coleta de dados valiosos para an·lise de tendÍncias de uso do estacionamento;
--	Demonstrar como a integraÁ„o de tecnologias como IoT podem ser aplicadas de forma pr·tica e benÈfica para resolver desafÌos urbanos.
+-	Redu√ß√£o do tempo gasto na busca por vagas de estacionamento;
+-	Contribui√ß√£o para a redu√ß√£o do tr√¢nsito e da polui√ß√£o do ar nas cidades; 
+-	Coleta de dados valiosos para an√°lise de tend√™ncias de uso do estacionamento;
+-	Demonstrar como a integra√ß√£o de tecnologias como IoT podem ser aplicadas de forma pr√°tica e ben√©fica para resolver desaf√≠os urbanos.
 
 ## Recursos do Projeto
 
 -	O Microcontrolador ESP32
--	APIs da Plataforma InterSCity que receber· os dados simulados do ESP32;
--	A plataforma InterSCity que armazenar· esses dados e permitir· a an·lise e visualizaÁ„o das informaÁıes simuladas de ocupaÁ„o das vagas;
--	Computadores, protoboard, jumpers, resistores s„o os recursos de hardware usados para desenvolver, testar e programar o ESP32.
+-	APIs da Plataforma InterSCity que receber√° os dados simulados do ESP32;
+-	A plataforma InterSCity que armazenar√° esses dados e permitir√° a an√°lise e visualiza√ß√£o das informa√ß√µes simuladas de ocupa√ß√£o das vagas;
+-	Computadores, protoboard, jumpers, resistores s√£o os recursos de hardware usados para desenvolver, testar e programar o ESP32.
 
 ## Equipe
-- Adrielle Campelo Cunha;
-- Alysson Pereira;
-- Arthur Sampaio.
-- Daniel Campos Galdez;
+- Jo√£o Batista Santos Silva Neto;
+- Victor Hugo Sousa Pereira;
+- Jo√£o Gabriel Muniz da Silva;
+- Carlos Daniel dos Santos;
 
-# DocumentaÁ„o
+# Documenta√ß√£o
 
 - [InterSCity](https://interscity.org/software/interscity-platform/)
 - [API InterSCity](https://gitlab.com/interscity/interscity-platform/resource-adaptor/-/wikis/home)
