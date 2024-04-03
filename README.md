@@ -4,7 +4,7 @@ Monitoramento Inteligente com Integração HomeHub
 ## Sobre o Projeto
 
 <div style="text-align: justify">
-A Residência Conectada com Integração HomeHub é uma inovadora iniciativa que visa revolucionar a maneira como as residências são monitoradas e como os moradores interagem com elas. Através do desenvolvimento de uma simulação de rede de computadores para um sistema de monitoramento com sensores de temperatura, umidade e presença, conectados a um microcontrolador, o qual envia dados para um broker mqtt sobre as medidas atuais dos sensores conectados.
+A Residência Conectada com Integração HomeHub é uma iniciativa que visa estabelecer uma maneira prática de monitorar residências e como os moradores podem interagir com elas. Através do desenvolvimento de uma simulação de rede de sensores, tais como temperatura, umidade e presença, conectados a um microcontrolador. Esses sensores enviam dados para um broker MQTT sobre as medidas atuais dos sensores conectados, ficando a critério do morador usar essas informações da maneira que preferir, seja apenas para monitoramento ou também para automação de seus aparelhos eletrodomésticos.
 </div>
 
 ## Objetivos
