@@ -29,9 +29,6 @@ A Residência Conectada com Integração HomeHub é uma inovadora iniciativa que
 
 # Documentação
 
-- [InterSCity](https://interscity.org/software/interscity-platform/)
-- [API InterSCity](https://gitlab.com/interscity/interscity-platform/resource-adaptor/-/wikis/home)
-
 <img src="https://github.com/DanielKGM/estacionamento_inteligente/assets/136013882/4cdf9bcd-809a-49ca-9929-6605011730cb" width="75%" heigth="75%"/>
 
 - [DataSheet: ESP32](https://pdf1.alldatasheet.com/datasheet-pdf/view/1243003/ESPRESSIF/ESP32.html)
